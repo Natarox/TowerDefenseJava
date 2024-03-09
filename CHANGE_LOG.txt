@@ -1,0 +1,6 @@
+v 1.0 :
+	Game released
+
+v 1.1 :
+	Tutorial screen added
+	"Manage Tower" are now only available between waves
